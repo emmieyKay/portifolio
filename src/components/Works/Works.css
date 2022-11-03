@@ -1,0 +1,18 @@
+.works-title{
+  font-family: "Gumela";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+
+
+@media screen and (max-width: 480px) {
+  .works {
+    flex-direction: column;
+    height: 55rem;
+    padding: 0;
+    gap: 5rem;
+  }
+
+
+}
